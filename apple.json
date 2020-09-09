@@ -1,0 +1,759 @@
+[
+    {
+        "rating": 2,
+        "title": "Not good",
+        "review": "Got the app and try to fill the form, however, I couldn’t submit the form anyway. Don’t know why. Really poor app",
+        "date": "09/05/2020, 06:38:39",
+        "isEdited": false,
+        "userName": "caxenophobe"
+    },
+    {
+        "developerResponse": {
+            "id": 17650542,
+            "body": "Hello. We are sincerely sorry that you are experiencing this. Can you please log out, log back in, and then try and resubmit? If you continue to notice the same problem, please send us an email at phac.arrivecan.aspc@canada.ca. Thank you for your patience.",
+            "modified": "2020-09-02T13:06:22Z"
+        },
+        "rating": 1,
+        "title": "Doesn’t work",
+        "review": "So have been watching it spin around for 1 hour after submitting. Expected this to happen as soon as it was announced.",
+        "date": "08/31/2020, 09:20:20",
+        "isEdited": false,
+        "userName": "paid by cerb"
+    },
+    {
+        "developerResponse": {
+            "id": 17611173,
+            "body": "Hello. We are very sorry that you have experienced this. Can you please send us an email at phac.arrivecan.aspc@canada.ca with your contact information? This will allow us to troubleshoot and find a solution. Thank you so much! ",
+            "modified": "2020-08-31T18:34:24Z"
+        },
+        "rating": 1,
+        "title": "Showing wrong data",
+        "review": "Hello,I Entered info that i have accomodation and food and medicine supply in that place,i will be in my home for 14 days quarantine.\nBut when i am done with this app its says no place for quarantine which is wrong,please fix it\nThanks",
+        "date": "08/30/2020, 00:19:58",
+        "isEdited": false,
+        "userName": "jo johny"
+    },
+    {
+        "rating": 1,
+        "title": "Unable to update the symptom information",
+        "review": "I’ve been getting mails from ArriveCAN asking me to take the self assessment survey. The link doesn’t work and if I go into the ArriveCan app, my travel details are no longer there. I don’t have any symptoms but I would like to complete the assessment  nevertheless.",
+        "date": "09/06/2020, 15:45:39",
+        "isEdited": false,
+        "userName": "avnimator"
+    },
+    {
+        "rating": 1,
+        "title": "Fix the Glitch",
+        "review": "Following submission, the app is showing “No Quarantine Accommodation” and “No Food or Medicine Provided”, even after the correct answers have been submitted.\n\nFix this glitch please. This app is adding unnecessary anxiety to travellers during an already-stressful time. \n\nI assume your border agents are aware of how problematic this app is?",
+        "date": "09/06/2020, 11:10:57",
+        "isEdited": false,
+        "userName": "SRPSPC"
+    },
+    {
+        "rating": 1,
+        "title": "Showing incorrect results",
+        "review": "Like several others have said in similar reviews, the app incorrectly shows that I have no accommodation or food and medical delivery despite entering yes to both questions when prompted. Multiple other users are clearly having the same issue and have said so, but there’s no evidence that a fix has been developed.",
+        "date": "09/06/2020, 10:36:40",
+        "isEdited": false,
+        "userName": "sean_ob1980"
+    },
+    {
+        "rating": 1,
+        "title": "The worst app",
+        "review": "Set up my app then it wouldn’t let me sign in or reset my password. Like our Liberal government it is totally incompetent",
+        "date": "09/05/2020, 23:36:24",
+        "isEdited": false,
+        "userName": "djrifmeidm"
+    },
+    {
+        "developerResponse": {
+            "id": 17784753,
+            "body": "Hello. Our team is aware of this issue and they are actively working to resolve it. In the meantime, please rest assured that the app's count will not have an impact on your quarantine start and end date. Your quarantine length is still 14 days. Thank you so much! ",
+            "modified": "2020-09-09T13:58:50Z"
+        },
+        "rating": 2,
+        "title": "Wrong days count",
+        "review": "The app allows for reporting the current health status daily, but it counts the days incorrectly. E.g I am quarantining for 11 days, but shows day 7 for me.",
+        "date": "09/03/2020, 17:53:17",
+        "isEdited": false,
+        "userName": "EstJot"
+    },
+    {
+        "rating": 1,
+        "title": "Ne fonctionne pas",
+        "review": "L application affiche des message d erreur qui ne correspondent pas aux réponses données ( pas de domicile ou de livraison de médicaments et nouriture par exemple alors que j ai mis oui).",
+        "date": "09/04/2020, 17:38:25",
+        "isEdited": false,
+        "userName": "HarpoCK"
+    },
+    {
+        "rating": 1,
+        "title": "Full of bugs!!",
+        "review": "I just completed an application using the website on my PC, and it showed up in the app correctly but the answers to my declaration are all wrong! In the app it says I don’t have accommodation for food! How can you get something so basic wrong? What do I do? There’s no support number!",
+        "date": "09/03/2020, 21:57:35",
+        "isEdited": false,
+        "userName": "Opaque"
+    },
+    {
+        "developerResponse": {
+            "id": 17784675,
+            "body": "Hello! That doesn't sound right. Sincere apologies for the inconvenience. Can you send us some information about your phone type at phac.arrivecan.aspc@canada.ca? This will help us determine what might be going wrong. Thank you so much. ",
+            "modified": "2020-09-09T13:53:57Z"
+        },
+        "rating": 2,
+        "title": "App not connecting to your server",
+        "review": "Since your last update I cannot get your app to connect your server. I have reinstalled the program and now I cannot login, just keep getting an hourglass.My Internet is connected and working",
+        "date": "09/01/2020, 14:32:45",
+        "isEdited": false,
+        "userName": "ijvp"
+    },
+    {
+        "developerResponse": {
+            "id": 17785804,
+            "body": "Bonjour. C'est une bonne question. Vous pouvez sélectionner \"Autre\" comme aérienne, puis entrer \"avion privé\" ou le nom de la compagnie avec laquelle vous voyagez. S'il n'y a pas de numéro de vol, vous pouvez laisser la valeur par défaut qui apparaît. Si vous rencontrez des problèmes, faites-le nous savoir (phac.arrivecan.aspc@canada.ca)! Nous vous remercions.  ",
+            "modified": "2020-09-09T14:54:49Z"
+        },
+        "rating": 1,
+        "title": "Arrivé par avion non commercial",
+        "review": "Et si on arrive par avion privé? L’application est inutilisable dans ce cas car il faut choisir une compagnie aérienne pour pouvoir commencer à compléter le formulaire. Impossible d’entrer l’immatriculation d’un avion par exemple...",
+        "date": "09/01/2020, 23:00:35",
+        "isEdited": false,
+        "userName": "Cool zenonia!!!!"
+    },
+    {
+        "developerResponse": {
+            "id": 17650779,
+            "body": "Hello! Can you email us at phac.arrivecan.aspc@canada.ca with more information about what happened? We will get back to you as soon as we can. Usually if you enter new information into the app it will overwrite the old information. We will work to find a solution for you via email.",
+            "modified": "2020-09-02T13:17:26Z"
+        },
+        "rating": 2,
+        "title": "Fix the information",
+        "review": "Hi I arrived Canada at last Saturday and I wrote the information when I arrived at the airport. When I pushed ”entry by air’ by accident, The information that I wrote is gone. I have to rewrite it what should I do?",
+        "date": "09/01/2020, 01:30:07",
+        "isEdited": false,
+        "userName": "Serenity gy"
+    },
+    {
+        "developerResponse": {
+            "id": 17611112,
+            "body": "Hello! You can report your symptoms by clicking the bell icon that is situated in the top right of the main screen of the app. There should be a notification there that will take you to a page to report your symptoms. If you do not see this, please send us an email at phac.arrivecan.aspc@canada.ca. Thank you so much!",
+            "modified": "2020-08-31T18:27:13Z"
+        },
+        "rating": 3,
+        "title": "Report your symptoms",
+        "review": "I didn't find option how to report my every day symptoms   of my 14-day quarantine . Please help me to find out. Thank you.",
+        "date": "08/29/2020, 15:46:21",
+        "isEdited": false,
+        "userName": "AngelKinght"
+    },
+    {
+        "developerResponse": {
+            "id": 17516566,
+            "body": "Hello. We are very sorry for your experience. Please send us an email at phac.arrivecan.aspc@canada.ca. We will get back to you as soon as possible. Hope to touch base with you soon. ",
+            "modified": "2020-08-26T13:46:20Z"
+        },
+        "rating": 3,
+        "title": "Can’t enter self assessment 48 hrs prior to entering Canada",
+        "review": "Please help, I’m unable to enter the self assessment part of the form to get my token number. My flight arrives at 3:05 pm on 26th August... today is 24th August, it’s 48 hours prior to arrival. Trying to see where I can do this self assessment but it’s stuck at” thank you fir completing travel form..come back 48 hours prior to entering Canada “ \nPlease help",
+        "date": "08/24/2020, 15:18:31",
+        "isEdited": false,
+        "userName": "Vtaya"
+    },
+    {
+        "developerResponse": {
+            "id": 17610977,
+            "body": "Hello. Thank you for raising this and sincere apologies for the inconvenience. Can you send us an email at phac.arrivecan.aspc@canada.ca with a screenshot of what you are seeing? This will help us identify a solution. We will get back to you as soon as possible. All the best.",
+            "modified": "2020-08-31T18:07:46Z"
+        },
+        "rating": 1,
+        "title": "Unable to reset password",
+        "review": "When selecting “forgot password”, unable to enter the verification code as the keyboard covers the window where it should be entered.  App is now useless.",
+        "date": "08/28/2020, 14:15:22",
+        "isEdited": false,
+        "userName": "Hiflyer-------"
+    },
+    {
+        "developerResponse": {
+            "id": 17610934,
+            "body": "Hello. We are really sorry that you have had a negative experience with the app. You should be able to report your symptoms by clicking the bell shape in the top right corner of the main screen of the app. If it does not display a notification, please let us know via email phac.arrivecan.aspc@canada.ca. Thank you for your feedback. ",
+            "modified": "2020-08-31T18:03:55Z"
+        },
+        "rating": 1,
+        "title": "This is terrible for following up with travellers",
+        "review": "I entered Canada on August 18 and used this app to register details of my quarantine information. Every day I’ve received emails requesting I “voluntarily complete the following symptom check-in with the Government of Canada daily during the 14-day isolation period” and the link sends me to the arrive can app where there is no place for me to provide this information. Even when I log out and log in, the app requests flight information for incoming travellers. I’m already in the country. Does the government not care about tracking symptoms of recent returnees?",
+        "date": "08/28/2020, 13:19:28",
+        "isEdited": false,
+        "userName": "farheen2020"
+    },
+    {
+        "developerResponse": {
+            "id": 17545291,
+            "body": "Hello. We are very sorry that you are experiencing these issues. Can you please send us an email at phac.arrivecan.aspc@canada.ca with your contact information? We will work with you to identify a solution. Hope to connect with you soon. ",
+            "modified": "2020-08-27T20:44:47Z"
+        },
+        "rating": 4,
+        "title": "Not receiving daily notifications of follow up",
+        "review": "Please note that it’s my 8th day from the day of landing and in the app it is showing Day 5. Also I am not getting notifications everyday for submitting the symptom information.\nPlease arrange to fix it.\nThank you.",
+        "date": "08/26/2020, 15:58:21",
+        "isEdited": false,
+        "userName": "Parita M"
+    },
+    {
+        "developerResponse": {
+            "id": 17516440,
+            "body": "Hello. We are very sorry for your experience. Please check to see if the email sent to a Spam or Junk folder in your Inbox. If you can't find it there, please send us an email at phac.arrivecan.aspc@canada.ca. We will do our best to support you as soon as possible. Thank you.",
+            "modified": "2020-08-26T13:42:25Z"
+        },
+        "rating": 1,
+        "title": "Garbage app",
+        "review": "Didn’t receive verification email. App stuck trying to verify random 6 digit code. Amazing quality of government services on full display",
+        "date": "08/21/2020, 21:17:39",
+        "isEdited": false,
+        "userName": "mowglizz"
+    },
+    {
+        "developerResponse": {
+            "id": 17516338,
+            "body": "Hi there. You can fill out your ArriveCan form earlier than 48 hours before your departure date and time. However, you will have to return to the app 48 hours or less before your flight in order to complete the final step of filling out the form, the COVID-19 self assessment. This window of 48 hours is in place to ensure symptom reporting reflects how an individual feels leading up to their flight. Thank you for reaching out!",
+            "modified": "2020-08-26T13:38:54Z"
+        },
+        "rating": 5,
+        "title": "Question",
+        "review": "Is a problem if I fill up the ArriveCAN form before 48 hours ? Or 55 hours or 60 hours?",
+        "date": "08/21/2020, 07:10:29",
+        "isEdited": false,
+        "userName": "klaudiak2001"
+    },
+    {
+        "developerResponse": {
+            "id": 17425517,
+            "body": "Hello. We sincerely apologize. Can you please send us an email at phac.arrivecan.aspc@canada.ca with your contact information? We will get back to you as soon as we can. Thank you so much! ",
+            "modified": "2020-08-21T20:02:57Z"
+        },
+        "userName": "sooze79",
+        "date": "08/20/2020, 13:07:16",
+        "review": "You’ll receive e-mails a few days after you’ve arrived in Canada directing you back to the App to evaluate any symptoms you may have. When you try to enter the date you arrived, it only lets you enter the present date or later. There’s no drop down for the self-evaluation.",
+        "rating": 2,
+        "title": "Needs to be fixed",
+        "isEdited": false
+    },
+    {
+        "developerResponse": {
+            "id": 17404171,
+            "body": "Hello! We are very sorry that you are experiencing this. If you have time, can you kindly send us an email at phac.arrivecan.aspc@canada.ca with some more information and the email address that you used to create an account? Thank you so much.",
+            "modified": "2020-08-20T16:34:37Z"
+        },
+        "userName": "Utopye",
+        "date": "08/19/2020, 13:47:28",
+        "review": "The app worked great for signing up and crossing the border. Now, I have been trying to submit my (non-existent) symptoms every single day though the app but there is nowhere on the app with that option. I really wanted to be helpful and support public health compliance follow-up but it is just not working. My quarantine is over tomorrow.",
+        "rating": 2,
+        "title": "Impossible to submit symptoms information",
+        "isEdited": false
+    },
+    {
+        "developerResponse": {
+            "id": 17383528,
+            "body": "Hello. We are sorry for the negative experience that you have had. Please be sure to check your Junk or Spam folder for the password reset email. If you cannot find it there, please reach out to us at phac.arrivecan.aspc@canada.ca. Thank you very much. ",
+            "modified": "2020-08-19T17:24:25Z"
+        },
+        "userName": "Hipwader1971",
+        "date": "08/19/2020, 06:36:15",
+        "review": "I’ve been trying to reset my pw for 6 hours and have yet to receive an email with the verification code. Get your Shiite together.",
+        "rating": 2,
+        "title": "Support sucks",
+        "isEdited": false
+    },
+    {
+        "developerResponse": {
+            "id": 17127671,
+            "body": "Hello. We are really sorry to hear that you have been having technical difficulties. Please send us an email at phac.arrivecan.aspc@canada.ca and we will do our best to support you and identify a solution.",
+            "modified": "2020-08-06T18:24:53Z"
+        },
+        "userName": "phephed",
+        "date": "08/06/2020, 14:42:01",
+        "review": "The app was good for getting through border control but now I’ve been asked to report symptoms and I can’t login.  I forgot my password.  A code was sent but I can’t complete anything because the keyboard comes up and covers what I have to press.",
+        "rating": 2,
+        "title": "Can’t login",
+        "isEdited": false
+    },
+    {
+        "developerResponse": {
+            "id": 17359899,
+            "body": "Hello. We are very sorry for the negative experience that you have had with the app. The app is meant to replace the paper version of the traveler contact form, to streamline the traveler's journey through the border. The app does not need to be downloaded after arrival, as it is mainly meant for pre-arrival. Please keep in mind that checking your symptoms on the app after arrival is completely voluntary! If you have any more questions, please send us a note at phac.arrivecan.aspc@canada.ca. Thank you. ",
+            "modified": "2020-08-18T18:44:30Z"
+        },
+        "userName": "NathM88",
+        "date": "08/18/2020, 00:30:00",
+        "review": "I first wanted to ‘check in’ online but for some reason, impossible to enter my entry date on my iPhone. So I ended up trying on my laptop via both chrome and internet explorer and it did not work. I ended up downloading the app after several unsuccessful tries. And I had to go through the same steps. It would be good to ask first hand if you have already arrived in Canada or if you’re still abroad. Then offer different options. The app automatically assumes that you are abroad. So I ended up generating that border code twice. With no use for me. Was that considered as ‘checked in’? Not sure... will I get in trouble for a late check in? Don’t know. Anyway, just because I’m supposed to monitor my symptoms through the app, I try real hard to find where that option is. I was unsuccessful. I had to call the phone number this morning to report my symptom monitoring and it sounds like I ‘checked in’ later than the 48 hours after my arrival. And I keep on trying to find where I can monitor my symptoms through the app. It’s impossible to find. And I’m not even struggling with technology. I feel like the instructions should be clearer. Especially that the symptom monitoring seems like it’s on a volunteer basis but the paper handed out at the airport sounds like it’s mandatory.",
+        "rating": 1,
+        "title": "Not intuitive at all",
+        "isEdited": false
+    },
+    {
+        "developerResponse": {
+            "id": 17359656,
+            "body": "Hello. We are really sorry that this happened to you. Can you please send us an email at phac.arrivecan.aspc@canada.ca with your contact information and a screenshot of what you are seeing? This will help us identify a solution for you as soon as possible. Thank you so much.",
+            "modified": "2020-08-18T18:17:44Z"
+        },
+        "userName": "Blue2002",
+        "date": "08/17/2020, 16:06:52",
+        "review": "An endless spinning wheel when I hit the Submit button, for the 2nd day now. A great idea, but apparently poorly implemented.",
+        "rating": 1,
+        "title": "Can’t submit...",
+        "isEdited": false
+    },
+    {
+        "developerResponse": {
+            "id": 17333510,
+            "body": "Hello! If you have not yet arrived in Canada, you can actually just re-submit your updated information in the app. The app will take your most recent entry over the old one. I hope this helps! Thank you. ",
+            "modified": "2020-08-17T18:53:13Z"
+        },
+        "userName": "Toronto68",
+        "date": "08/17/2020, 13:28:44",
+        "review": "Hello. I made a mistake how I can update my information after submit? It a still 48h before my trip",
+        "rating": 3,
+        "title": "Update I formation",
+        "isEdited": false
+    },
+    {
+        "developerResponse": {
+            "id": 17333441,
+            "body": "Hello! We are truly sorry that you had a negative experience with the app the second time you used it. Can you please send us an email at phac.arrivecan.aspc@canada.ca with a screenshot of what you are seeing? This will help us identify a solution. Thank you so much!",
+            "modified": "2020-08-17T18:49:00Z"
+        },
+        "userName": "ctang0521",
+        "date": "08/17/2020, 12:42:41",
+        "review": "I entered Canada on Aug 9 using this app and it was great, easy and no issue at the Border.  \n\nA recent update to this app erased all the information, that code I showed to the Border official is now gone and there is no way to retrieve.  I don't see any option of sign in or out at all.  \n\nNow, a week after I entered Canada I started receiving email reminding me about quarantine and there is daily email asking me to fill out symptoms questionnaire.  I attempted but couldn’t fill out because the app wouldn't allow you to go back in time - date selection is only for future!",
+        "rating": 1,
+        "title": "Update to the app erased information and can’t select entry date in the past",
+        "isEdited": false
+    },
+    {
+        "developerResponse": {
+            "id": 17333316,
+            "body": "Hello. Please check to see if the password reset email is in the Junk or Spam folder in your Inbox. If not, please send us an email at phac.arrivecan.aspc@canada.ca and we will assist you as soon as possible. Thank you very much!",
+            "modified": "2020-08-17T18:42:27Z"
+        },
+        "userName": "ROU KilllingTime",
+        "date": "08/17/2020, 05:42:49",
+        "review": "Forgot Password reset will not send reset code via email.  Says it did, but doesn’t.",
+        "rating": 1,
+        "title": "Forgot Password prompt",
+        "isEdited": false
+    },
+    {
+        "developerResponse": {
+            "id": 17333191,
+            "body": "Hello! We sincerely apologize for the inconvenience. Please ensure that you have the latest version of the app. You should be able to update your symptoms post-border by clicking the bell icon on the Top Right corner of the main screen and then selecting the appropriate notification. Please don't hesitate to let us know if you have more questions phac.arrivecan.aspc@canada.ca.",
+            "modified": "2020-08-17T18:32:22Z"
+        },
+        "userName": "Marcus Hsueh",
+        "date": "08/15/2020, 12:02:13",
+        "review": "This app is absolutely useless for self-quarantine period.",
+        "rating": 1,
+        "title": "Cannot Report Symptoms or Check In",
+        "isEdited": false
+    },
+    {
+        "developerResponse": {
+            "id": 17266257,
+            "body": "Hello! I am so sorry for not including the email right away! You can contact us at phac.arrivecan.aspc@canada.ca. Looking forward to connecting with you soon. ",
+            "modified": "2020-08-13T15:47:14Z"
+        },
+        "userName": "gmstdk",
+        "date": "08/13/2020, 07:27:36",
+        "review": "I have received a response from you to contact you via email - where can I find your email address to contact you personally about my airline?",
+        "rating": 1,
+        "title": "My airport and airline isn’t listed",
+        "isEdited": false
+    },
+    {
+        "developerResponse": {
+            "id": 17266203,
+            "body": "Hello. We are very sorry that you are experiencing this issue. Please send us an email at phac.arrivecan.aspc@canada.ca with some more details about your case and we will get back to you as soon as possible.",
+            "modified": "2020-08-13T15:45:07Z"
+        },
+        "userName": "achowy",
+        "date": "08/12/2020, 20:45:36",
+        "review": "Can’t access information or report anything after submitting isolation plan. I arrived in Canada last week and I had no problem at border security but I can’t access anything that I put in the app.",
+        "rating": 1,
+        "title": "Doesn’t work",
+        "isEdited": false
+    },
+    {
+        "developerResponse": {
+            "id": 17242726,
+            "body": "Hello. We sincerely apologize for the inconvenience. Can you send us an email at phac.arrivecan.aspc@canada.ca with some more details about your case? We will do our best to get to the bottom of this. Thank you so much!",
+            "modified": "2020-08-12T15:57:59Z"
+        },
+        "userName": "cdh32123",
+        "date": "08/11/2020, 16:55:51",
+        "review": "Presented my entry code to border security yesterday and there is nowhere for me to even report symptoms or check-in as the form they provided says we are required to do.",
+        "rating": 1,
+        "title": "Can’t report anything?",
+        "isEdited": false
+    },
+    {
+        "developerResponse": {
+            "id": 17214846,
+            "body": "Hello. We sincerely apologize for the technical difficulties that you experienced. Can you please send us an email about the border that you traveled through, and provide us with more information about what went wrong? You can reach us at phac.arrivecan.aspc@canada.ca. Thank you so much and apologies again. ",
+            "modified": "2020-08-11T13:38:47Z"
+        },
+        "userName": "Therealredding",
+        "date": "08/10/2020, 17:44:09",
+        "review": "I’m a truck driver and I was told I needed to download and use this app to cross back into Canada. I downloaded it and try using and I kept getting a server error whenever I tried uploading my info. I talked to a couple officers at the border and they told me it doesn’t work and not to use it.",
+        "rating": 1,
+        "title": "Just doesn’t work",
+        "isEdited": false
+    },
+    {
+        "developerResponse": {
+            "id": 17081277,
+            "body": "Nous nous excusons pour cet inconvénient. Veuillez nous contacter à phac.arrivecan.aspc@canada.ca et nous travaillerons avec vous pour trouver une solution. Merci! ",
+            "modified": "2020-08-04T19:07:14Z"
+        },
+        "userName": "Nono.kriimo",
+        "date": "08/03/2020, 01:23:51",
+        "review": "Impossible d’envoyer le formulaire. Ça m’écrit Erreur de connexion internet alors que j’ai internet...",
+        "rating": 3,
+        "title": "Erreur",
+        "isEdited": false
+    },
+    {
+        "developerResponse": {
+            "id": 16908858,
+            "body": "Thank you for your feedback, we greatly appreciate it. We will flag this to our team to help inform future iterations of the app.",
+            "modified": "2020-07-27T20:07:22Z"
+        },
+        "userName": "SigmaToad",
+        "date": "07/25/2020, 15:22:49",
+        "review": "Good app and design, however it’s missing important functionalities. For example, study permit and work permit holders can’t select their exempt type.\nAlso it would be good to add a questionnaire-style walkthrough to let users quickly find out if they are exempt, since the info given by IRCC is pretty vague.",
+        "rating": 3,
+        "title": "Exempt types are incomplete",
+        "isEdited": false
+    },
+    {
+        "developerResponse": {
+            "id": 16961484,
+            "body": "Hi there! Don't worry, you haven't messed anything up! We will take whatever data was entered most recently. In this case, it sounds like it was the data in the app. The app will prompt you to report your symptoms within 48 after you have arrived in Canada. However, it is voluntary to report your symptoms in the app once you have already crossed the border into Canada, and you don't have to report them daily. I hope this helps.",
+            "modified": "2020-07-29T17:55:09Z"
+        },
+        "userName": "Jennabirdd12345",
+        "date": "07/28/2020, 20:22:14",
+        "review": "I got this app to report my symptoms daily as suggested by the Coronavirus Disease handout given to me at the airport which states, “Report your symptoms through the ArriveCan app.....every day until the end of your 14day quarantine.” Well, my first check-in was via telephone and I thought it might be just as easy to get the app, but after signing up it is just another form like the one I filled out at the airport with no option to “submit your daily symptoms.” So now I have filled out the same form twice, once at the airport on a hard copy and once digitally through this app. I hope that I haven’t messed something up because of this.",
+        "rating": 1,
+        "title": "No  reporting of symptoms daily?",
+        "isEdited": false
+    },
+    {
+        "developerResponse": {
+            "id": 16761382,
+            "body": "Hello. Thank you very much for flagging this issue. We are working to fix this so that exempt travelers working in trade and transport will not be prompted to input an address after indicating the nature of their work. ",
+            "modified": "2020-07-20T20:11:57Z"
+        },
+        "userName": "billp67",
+        "date": "07/18/2020, 07:19:21",
+        "review": "Quick response from last review, thank you.\nI am able to select Exempt at the beginning however after putting in my personal details and document info the app still requires a location that I can be reached at over the next 14 days. It is not something I can fill out as I am entering Canada today, departing tomorrow, reentering Canada sometime later in the week then hopefully home for 3-4 days and then back to work which will involve departing Canada again.   Honestly I do not know where I will be at many points over the next 14 days. How do I complete this section or am I missing a way to bypass it?\nThank you for looking into this.",
+        "rating": 3,
+        "title": "Transport Drivers - 14 Day Location Problem",
+        "isEdited": false
+    },
+    {
+        "developerResponse": {
+            "id": 16699480,
+            "body": "Hi Mesbah, we sincerely apologize for the difficulties you are having. The problem is due to the format of the password and the error message you are receiving. Please use a password with at least 8 characters, include an upper and a lower case letter, a numeric digit and a special character (!,@,#,$). If you update this app from the App Store it will give you further instructions on the format of the password.\n\n",
+            "modified": "2020-07-17T12:15:48Z"
+        },
+        "userName": "@Mesbah",
+        "date": "07/16/2020, 23:32:48",
+        "review": "Please enable login remember option. It is great hassle to remember passwords during transit in airports and flights. Thanks.",
+        "rating": 4,
+        "title": "Bugs fixed but now",
+        "isEdited": false
+    },
+    {
+        "developerResponse": {
+            "id": 16683265,
+            "body": "Hi Vika, we sincerely apologize for the difficulties you are having. The problem is due to the format of the password and the error message you are receiving. Please use a password with at least 8 characters, include an upper and a lower case letter, a numeric digit and a special character (!,@,#,$). If you update this app from the App Store it will give you further instructions on the format of the password",
+            "modified": "2020-07-16T23:56:36Z"
+        },
+        "userName": "Vika Birstein",
+        "date": "07/16/2020, 16:54:48",
+        "review": "I’ve tried to create an account but it’s keep saying I can’t do it. I’ve checked an email and tried a few different variations of passwords but no luck. My flight back to Canada is in 2 days. Can you suggest please ?",
+        "rating": 5,
+        "title": "Can’t create an account",
+        "isEdited": false
+    },
+    {
+        "date": "07/03/2020, 00:28:56",
+        "title": "No token visible",
+        "developerResponse": {
+            "id": 16434998,
+            "body": "The tokens are posted at the border on signage. If at any point you cannot locate the token, the Border Services Officer will be able to assist you. ",
+            "modified": "2020-07-06T13:23:13Z"
+        },
+        "userName": "flighthound",
+        "rating": 2,
+        "isEdited": false,
+        "review": "I arrived in Vancouver and looked everywhere for the Token needed for the app. Basically useless as there was no Token that I could see anywhere. Disappointing this was not better coordinated with the airport."
+    },
+    {
+        "date": "09/06/2020, 13:46:52",
+        "title": "Not working properly",
+        "userName": "Flasplayer",
+        "rating": 1,
+        "isEdited": false,
+        "review": "When I report daily , I click no fever and symptoms but it says it seems you developed Covid , crazy app and surprised a country like canada couldn’t do better especially when we read all these comments"
+    },
+    {
+        "date": "06/18/2020, 21:03:07",
+        "title": "CSBA assistants doesn’t know the App",
+        "userName": "Lynn Patel",
+        "rating": 4,
+        "isEdited": false,
+        "review": "The CSBA assistants, employees who assist on the line up of passengers, were not trained about the App. When you filled up the isolation plan in the app , you don't need to fill up the paper form. Toronto Pearson Flight May 23 , 2020 PR118. My family lost our spot to the line towards the Immigration officer because she wants me to fill up the form regardless of what I told her. I have to find another assistant who was trained enough to know about the app. Overall, the app is very user friendly, quick and easy."
+    },
+    {
+        "date": "04/28/2020, 06:42:43",
+        "title": "No good for seniors",
+        "developerResponse": {
+            "id": 14967343,
+            "body": "Hello, the ArriveCAN mobile app is one of three options available to incoming travellers to complete the Traveller Contact Information Form, a web-based form and paper form are also available at the border. If you are completing the information in advance of your parents arrival to Canada using ArriveCAN, you can save the information and they can submit the token upon arrival. Tokens are only displayed at the border - currently only piloted at the Vancouver airport and Douglas border crossing - and can be obtained from a border services officer.",
+            "modified": "2020-04-28T12:45:55Z"
+        },
+        "userName": "黃劍口香糖",
+        "rating": 1,
+        "isEdited": false,
+        "review": "Hi, the Federal CANArrive application, my parents are elderly , they don’t have a smartphone, how can they submit the information? I try to use the app but it need the token code for submit. I did\nComplete a B.C. Self-Isolation Plan online for them.  but what can I do for the Federal CANArrive Application? thank you."
+    },
+    {
+        "date": "07/06/2020, 20:40:58",
+        "title": "Shockingly bad",
+        "developerResponse": {
+            "id": 16435098,
+            "body": "You will only be enabled to fill in the application 48 hours before your arrival in Canada. If you try again 48 before, it will enable you to complete the form. ",
+            "modified": "2020-07-06T13:27:09Z"
+        },
+        "userName": "Nmilton",
+        "rating": 1,
+        "isEdited": true,
+        "review": "Will not even change the date.  \n\nDate fields and pickers are absolutely basic in all modern apps, and this piece of junk will not allow any choice of date except 3 days from today. \n\nUseless.\n\nOnly being able to input data 48 hours before use is a bizarre limitation, but in any event, since any organized traveller would try it before then, it is a key piece of information that should be prominently displayed in any well-documented app - which this clearly is not.\n\nThis is a government that yaps endlessly about innovation, but which cannot publish a half decent version of a simple app."
+    },
+    {
+        "date": "05/29/2020, 19:44:20",
+        "title": "Token number not available, cannot submit",
+        "developerResponse": {
+            "id": 15758674,
+            "body": "Thank you for your feedback. Unfortunately if you were not provided with a token number at the border, you will be unable to fill out the form. Please continue to quarantine for 14 days in your home location. ",
+            "modified": "2020-06-03T19:32:06Z"
+        },
+        "userName": "tibbymom",
+        "rating": 2,
+        "isEdited": false,
+        "review": "I arrived at Douglas border crossing today, and when I arrived home I went online to fill in the provincial and federal forms. On this app, it requires a token number that can only be found at the point of entry. The border guard did not inform me that I would need that information and the paper I was handed has no mention of the app or the token number, so I have no way to submit the mandatory form."
+    },
+    {
+        "date": "07/02/2020, 17:45:51",
+        "title": "Cannot complete date of entry",
+        "developerResponse": {
+            "id": 16435038,
+            "body": "You will only be able to fill the application in within 48 hours before your arrival. If you are getting bounced back to today's date, that would be why. You should be successful if you try again 2 days before your arrival. ",
+            "modified": "2020-07-06T13:24:52Z"
+        },
+        "userName": "Casdious",
+        "rating": 1,
+        "isEdited": false,
+        "review": "It just springs back into the default state"
+    },
+    {
+        "date": "06/29/2020, 02:46:28",
+        "title": "Port of entry",
+        "userName": "Bone4523",
+        "rating": 3,
+        "isEdited": false,
+        "review": "I am trying to select my point of entry and the peace arch border crossing is not an option? Not sure what to do"
+    },
+    {
+        "date": "06/13/2020, 23:58:42",
+        "title": "App stuck",
+        "userName": "Ewbico",
+        "rating": 1,
+        "isEdited": false,
+        "review": "This APP, for arrival in Canada during the Covid event will not progress beyond the first page. It seems incompatible with iPadOS 13.5.1. Please update."
+    },
+    {
+        "date": "06/08/2020, 11:47:20",
+        "title": "Please fix the app (not working in iOS",
+        "userName": "FIsh Ichthus",
+        "rating": 3,
+        "isEdited": false,
+        "review": "I’m unable to run th app in iOS. I have my flight tomorrow, please fix this."
+    },
+    {
+        "date": "06/04/2020, 17:06:40",
+        "title": "Liste des compagnies aériennes",
+        "userName": "saadoran",
+        "rating": 3,
+        "isEdited": false,
+        "review": "Ajoutez Air Algérie svp. Merci"
+    },
+    {
+        "date": "06/03/2020, 00:21:07",
+        "title": "No token",
+        "developerResponse": {
+            "id": 15758675,
+            "body": "Thank you for your feedback. Unfortunately if you were not provided with a token number at the border, you will be unable to fill out the form. Please continue to quarantine for 14 days in your home location. ",
+            "modified": "2020-06-03T19:32:20Z"
+        },
+        "userName": "juicyjjjooo",
+        "rating": 1,
+        "isEdited": false,
+        "review": "I arrived today at Douglas peace arch and they informed me of downloading this app but never mentioned a token, therefor I’m now trying to register and unable to complete..."
+    },
+    {
+        "date": "05/13/2020, 01:54:35",
+        "title": "Date of arrival",
+        "developerResponse": {
+            "id": 15297833,
+            "body": "Hello, thank you for your feedback. We are looking into the issue on our end. Could you kindly email us at (phac.canarrive.aspc@canada.ca) as we may have additional questions to aid in troubleshooting the issue.",
+            "modified": "2020-05-13T14:10:59Z"
+        },
+        "userName": "skdjeudbsn",
+        "rating": 2,
+        "isEdited": false,
+        "review": "I’m trying to fill this out before arriving in Canada, but it won’t let me put an arrival date that isn’t within the next 2 days. When I try to set a different arrival date it jumps back."
+    },
+    {
+        "date": "05/19/2020, 21:55:12",
+        "title": "Problems",
+        "developerResponse": {
+            "id": 15758687,
+            "body": "You will not be able to input information until 24 hours prior to entry in Canada. ",
+            "modified": "2020-06-03T19:33:29Z"
+        },
+        "userName": "Guided mind",
+        "rating": 1,
+        "isEdited": false,
+        "review": "I cannot fill in my information as it won’t allow me to change the date to one that is more than a couple of days away."
+    },
+    {
+        "date": "05/19/2020, 13:04:36",
+        "title": "Essential Worker",
+        "userName": "iRock_99.9",
+        "rating": 4,
+        "isEdited": false,
+        "review": "I think there should be a question covering if a traveler identifies as an essential worker returning home from work or going to work. That would be good information to pass along to speed things up perhaps."
+    },
+    {
+        "date": "04/30/2020, 04:02:37",
+        "title": "Token",
+        "developerResponse": {
+            "id": 15012169,
+            "body": "Hello, the tokens are currently only available and displayed at Canada’s four main airports - Toronto, Calgary, Vancouver and Montreal - and all land border crossings. It is not available in advance. If a traveller is using ArriveCAN to enter the country, they must have the phone on their person in order to enter the token and show the final reference code to a Border Services Officer. Other options are available at the border, including paper, that a traveller can use to submit this information should they not have a mobile device to do so.",
+            "modified": "2020-04-30T11:31:51Z"
+        },
+        "userName": "ਵੀਰਪਾਲ",
+        "rating": 2,
+        "isEdited": false,
+        "review": "How I can find token for my parents. They don’t know English and they don’t have phone either. I read in other review that I can save information and they can submit the token upon arrival. How this will work? I thought this information is required before immigration. They don’t have phone so how they are going to give token to me. Is token are displayed for general public as well."
+    },
+    {
+        "date": "05/11/2020, 05:39:12",
+        "title": "Not all flight no. start with 4 letters",
+        "developerResponse": {
+            "id": 15245427,
+            "body": "Hello, thank you for your feedback. We are looking into the issue on our end. Could you kindly email us at (phac.canarrive.aspc@canada.ca) as we may have additional questions to aid in troubleshooting the issue. ",
+            "modified": "2020-05-11T15:26:54Z"
+        },
+        "userName": "ACFILL",
+        "rating": 1,
+        "isEdited": false,
+        "review": "Not all flight no. start with 4 letters!!! For example, Sichusuan Airline starts with “3U”. For this reason, I cannot fill my info from beginning!!"
+    },
+    {
+        "date": "05/09/2020, 03:12:03",
+        "title": "Self-isolation plan",
+        "developerResponse": {
+            "id": 15245376,
+            "body": "Hello, the information collected through the ArriveCAN mobile app is mandatory for all incoming travellers and would need to be completed upon entering Canada in addition to any provincial/territorial requirements. ",
+            "modified": "2020-05-11T15:23:50Z"
+        },
+        "userName": "unionnice",
+        "rating": 5,
+        "isEdited": false,
+        "review": "Hi, i did complete a B.C self-isolation plan on-line, i wonder if i need also complete a federal arrivecan application ？thanks"
+    },
+    {
+        "date": "05/06/2020, 03:39:52",
+        "title": "Date of arrival",
+        "developerResponse": {
+            "id": 15136766,
+            "body": "Hello, thanks for your feedback. Could you email us at phac.arrivecan.aspc@canada.ca so we can look into this further? ",
+            "modified": "2020-05-06T16:22:49Z"
+        },
+        "userName": "Kiwileescrabble",
+        "rating": 3,
+        "isEdited": false,
+        "review": "I downloaded the ap but when I try and put in my arrival date it will only allow the current date not a future one."
+    },
+    {
+        "date": "05/03/2020, 23:59:19",
+        "title": "Problem with setting birthdates.",
+        "developerResponse": {
+            "id": 15084454,
+            "body": "Hello, thank you for your feedback. We're looking into this. ",
+            "modified": "2020-05-04T15:35:10Z"
+        },
+        "userName": "Meriah Larry",
+        "rating": 3,
+        "isEdited": false,
+        "review": "The birth dates of travellers keep reverting back to the current date. A great idea  but just not working properly."
+    },
+    {
+        "review": "I’m trying to update my health status since I arrived August 30 and I’m doing the self isolation but it doesn’t work, stays refreshing and refreshing so I have to force close it. I wanna contributes with the health care but Isn’t posible.",
+        "isEdited": false,
+        "title": "Difficulties",
+        "userName": "Lily171190",
+        "rating": 2,
+        "date": "09/08/2020, 15:03:25"
+    },
+    {
+        "review": "Seems to only be usable for Vancouver Airport",
+        "isEdited": false,
+        "title": "Only good for Vancouver Airport.",
+        "developerResponse": {
+            "id": 14922635,
+            "body": "Hello, the ArriveCAN mobile app is currently being piloted at the Vancouver airport and Peace Arch Crossing (Douglas). It will be available across Canada shortly.",
+            "modified": "2020-04-26T23:20:41Z"
+        },
+        "userName": "Genetk44",
+        "rating": 1,
+        "date": "04/26/2020, 17:12:36"
+    },
+    {
+        "review": "Tried to complete, allows only 'Douglas Passenger' a sport of entry.  I guess we will have to do this when we arrive at Sarnia?",
+        "isEdited": false,
+        "title": "Entering by car does not allow port of entry",
+        "developerResponse": {
+            "id": 14922705,
+            "body": "Hello, thank you for your feedback. The ArriveCAN mobile app  is currently being piloted at two Canadian ports of entry - Douglas border crossing and Vancouver airport. Other locations will go live shortly. Until then, other options will be available.",
+            "modified": "2020-04-26T23:34:30Z"
+        },
+        "userName": "=Clarissa=",
+        "rating": 1,
+        "date": "04/26/2020, 15:17:07"
+    },
+    {
+        "review": "No token, No finishing the form? Where do I get this token? Who do I ask?",
+        "isEdited": false,
+        "title": "Token at the end",
+        "developerResponse": {
+            "id": 14918889,
+            "body": "Hello, the ArriveCAN mobile app is currently being piloted at the Vancouver airport and Peace Arch Crossing (Douglas). In order to submit your information, you must enter the token displayed at these ports of entry. ",
+            "modified": "2020-04-26T14:40:07Z"
+        },
+        "userName": "Zxvfsssgh",
+        "rating": 1,
+        "date": "04/25/2020, 22:46:03"
+    }
+]
